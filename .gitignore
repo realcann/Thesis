@@ -1,0 +1,27 @@
+# Nextflow
+work/
+.nextflow*
+.nextflow.log*
+
+# Windows Zone Identifier
+*:Zone.Identifier
+
+# Output
+out/
+trimmed/
+
+# Input data
+files/
+
+# Large bioinformatics files
+*.fastq
+*.fq
+*.fastq.gz
+*.fq.gz
+*.bam
+*.sam
+*.vcf
+*.gz
+
+# OS / editor
+.DS_Store
