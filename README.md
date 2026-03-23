@@ -20,6 +20,7 @@ Make sure the following are installed:
 
 Nextflow (>= 22.x)
 Conda (recommended)
+
 ⚙️ Setup
 
 Clone the repository:
