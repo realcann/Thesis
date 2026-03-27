@@ -14,6 +14,7 @@ Genome Annotation (Prokka)
 Comparative Genomics (MUMmer)
 Pangenome Analysis (Roary)
 Scalable and portable across systems
+
 📦 Requirements
 
 Make sure the following are installed:
@@ -26,7 +27,9 @@ Conda (recommended)
 Clone the repository:
 
 git clone https://github.com/realcann/Thesis.git
+
 cd Thesis
+
 📂 Input Data
 
 The pipeline expects:
