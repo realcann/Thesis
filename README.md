@@ -4,9 +4,11 @@ This repository contains a reproducible bioinformatics pipeline developed for un
 The pipeline performs genome processing and comparative analysis, including quality control, trimming, assembly, annotation, and pangenome analysis.
 
 🚀 Features
+
 Reproducible workflow using Nextflow
 Modular pipeline design (DSL2)
 Supports:
+
 Quality Control (FastQC)
 Trimming
 Genome Assembly (SPAdes)
@@ -91,4 +93,5 @@ Molecular Biology and Genetics
 Bioinformatics & Comparative Genomics
 
 📌 Notes
+
 This pipeline was developed as part of a thesis project focusing on reproducible genomic analysis.
